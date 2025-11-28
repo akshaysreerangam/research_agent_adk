@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+readability-lxml
+pandas
+google-adk
+python-dotenv
